@@ -8794,7 +8794,7 @@
       },
     },
     "packages/pieces/community/solardialer": {
-      "name": "@activepieces/piece-solardialer",
+      "name": "@solardialer/piece-solardialer",
       "version": "0.0.1",
       "dependencies": {
         "@activepieces/core-piece-types": "workspace:*",
@@ -12717,7 +12717,7 @@
 
     "@activepieces/piece-sofya": ["@activepieces/piece-sofya@workspace:packages/pieces/community/sofya"],
 
-    "@activepieces/piece-solardialer": ["@activepieces/piece-solardialer@workspace:packages/pieces/community/solardialer"],
+    "@solardialer/piece-solardialer": ["@solardialer/piece-solardialer@workspace:packages/pieces/community/solardialer"],
 
     "@activepieces/piece-sperse": ["@activepieces/piece-sperse@workspace:packages/pieces/community/sperse"],
 
