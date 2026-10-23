@@ -1316,6 +1316,9 @@
       "@activepieces/piece-sofya": [
         "packages/pieces/community/sofya/src/index.ts"
       ],
+      "@activepieces/piece-solardialer": [
+        "packages/pieces/community/solardialer/src/index.ts"
+      ],
       "@activepieces/piece-sperse": [
         "packages/pieces/community/sperse/src/index.ts"
       ],

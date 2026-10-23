@@ -8793,6 +8793,20 @@
         "tslib": "2.6.2",
       },
     },
+    "packages/pieces/community/solardialer": {
+      "name": "@activepieces/piece-solardialer",
+      "version": "0.0.1",
+      "dependencies": {
+        "@activepieces/core-piece-types": "workspace:*",
+        "@activepieces/core-utils": "workspace:*",
+        "@activepieces/pieces-common": "workspace:*",
+        "@activepieces/pieces-framework": "workspace:*",
+      },
+      "devDependencies": {
+        "tslib": "2.6.2",
+        "vitest": "3.2.6",
+      },
+    },
     "packages/pieces/community/sperse": {
       "name": "@activepieces/piece-sperse",
       "version": "0.1.7",
@@ -12702,6 +12716,8 @@
     "@activepieces/piece-softr": ["@activepieces/piece-softr@workspace:packages/pieces/community/softr"],
 
     "@activepieces/piece-sofya": ["@activepieces/piece-sofya@workspace:packages/pieces/community/sofya"],
+
+    "@activepieces/piece-solardialer": ["@activepieces/piece-solardialer@workspace:packages/pieces/community/solardialer"],
 
     "@activepieces/piece-sperse": ["@activepieces/piece-sperse@workspace:packages/pieces/community/sperse"],
 
